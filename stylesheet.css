@@ -1,1 +1,31 @@
+header {
+  backgrgound: #012840;
+}
+
+.main1 {
+  background: #a1c1a1;
+}
+
+
+
+/* Color Theme Swatches in Hex */
+.菊池渓谷-1-hex { color: #012840; }
+.菊池渓谷-2-hex { color: #0A8CBF; }
+.菊池渓谷-3-hex { color: #078C03; }
+.菊池渓谷-4-hex { color: #055902; }
+.菊池渓谷-5-hex { color: #022601; }
+
+/* Color Theme Swatches in RGBA */
+.菊池渓谷-1-rgba { color: rgba(1, 39, 63, 1); }
+.菊池渓谷-2-rgba { color: rgba(9, 139, 191, 1); }
+.菊池渓谷-3-rgba { color: rgba(7, 140, 2, 1); }
+.菊池渓谷-4-rgba { color: rgba(4, 89, 1, 1); }
+.菊池渓谷-5-rgba { color: rgba(2, 38, 0, 1); }
+
+/* Color Theme Swatches in HSLA */
+.菊池渓谷-1-hsla { color: hsla(202, 96, 12, 1); }
+.菊池渓谷-2-hsla { color: hsla(196, 90, 39, 1); }
+.菊池渓谷-3-hsla { color: hsla(118, 96, 28, 1); }
+.菊池渓谷-4-hsla { color: hsla(118, 96, 17, 1); }
+.菊池渓谷-5-hsla { color: hsla(118, 96, 7, 1); }
 

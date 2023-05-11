@@ -15,6 +15,15 @@
 .footer {
   background: #012840;
   color: #c0c9cf;
+  padding: 20px;
+}
+
+.footer-ja {
+  float: left;
+}
+
+.footer-en {
+  float: center;
 }
 
 .footer-logo {

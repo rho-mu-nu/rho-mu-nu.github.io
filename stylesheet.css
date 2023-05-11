@@ -3,8 +3,23 @@
   color: #c0c9cf; 
 }
 
+.header-logo {
+  font-size : 36px;
+  padding: 20px 10px;
+}
+
 .main1 {
   background: #e8f0e8;
+}
+
+.footer {
+  background: #012840;
+  color: #c0c9cf;
+}
+
+.footer-logo {
+  font-size: 20px;
+  padding: 20px 10px;
 }
 
 

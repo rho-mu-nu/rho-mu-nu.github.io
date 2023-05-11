@@ -8,14 +8,19 @@
   padding: 20px 10px;
 }
 
+.main0 {
+  padding : 20px 20px;
+}
+
 .main1 {
   background: #e8f0e8;
+  padding : 20px 20px;
 }
 
 .footer {
   background: #012840;
   color: #c0c9cf;
-  padding: 20px;
+  padding: 20px 20px;
 }
 
 .footer-ja {

@@ -23,12 +23,8 @@
   padding: 20px 20px;
 }
 
-.footer-ja {
+.footer-item {
   float: left;
-}
-
-.footer-en {
-  float: right;
 }
 
 .footer-logo {
